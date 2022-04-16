@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Pierre!
+
+## I'm an undergraduate in Computer Engineering at UC San Diego
 
 <!--
 **PierreBeur/PierreBeur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
