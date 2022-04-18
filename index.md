@@ -1,4 +1,7 @@
 ---
-title: About
+title: Pierre Beurtheret
 ---
-Nothing to see here!
+# About
+## Author
+## Purpose
+## Audience
