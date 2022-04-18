@@ -1,2 +1,2 @@
-# <center>About</center>
+# About
 Nothing to see here!
