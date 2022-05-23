@@ -26,7 +26,7 @@ If the engine you choose does not fit into the vehicle as-is, modifications to t
 The drive layout of the engine and transmission you choose for a swap have to be compatible with that of the vehicle. If the drive layout is inline, as above, or transverse, as below, one or two shafts of custom length must be sourced to transfer power from the engine to the wheels.
 
 ![Cooling](./8.png)
-The drive layout of the engine and transmission you choose for a swap have to be compatible with that of the vehicle. If the drive layout is inline, as above, or transverse, as below, one or two shafts of custom length must be sourced to transfer power from the engine to the wheels.
+To integrate the existing cooling system with the new engine, custom hoses for inlet and outlet, as well as for interior heating must be made. An upgraded radiator and fan is often necessary to cool a more powerful or larger engine.
 
 ![Connecting Systems](./9.png)
 There are other various systems which must be integrated, such as fuel, vacuum, power steering, and air conditioning. These systems can vary greatly between different makes and models. Sometimes systems like power steering or air conditioning are deleted for simplicity or weight, most often in racing applications.
