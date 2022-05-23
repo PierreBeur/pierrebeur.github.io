@@ -1,7 +1,7 @@
 ---
 title: Pierre Beurtheret
 ---
-[About](~/index.html) | [Engine Swaps](swaps.html) | [Links](~/links.html)
+[About](../index.html) | [Engine Swaps](swaps.html) | [Links](../links.html)
 # Engine Swaps
 
 ![What is an engine swap?](./1.png)
@@ -61,4 +61,4 @@ Having other people to help on a project makes the process much more enjoyable. 
 ![Summing it up…](./19.png)
 Engine swap projects can be challenging, expensive, and long, but immense satisfaction and enjoyment can be had from the process and the end result. Engine swaps are not for everyone, but are incredible experiences for those inclined. I hope you took something away from this peek into car culture.
 
-[About](~/index.html) | [Engine Swaps](swaps.html) | [Links](~/links.html)
+[About](../index.html) | [Engine Swaps](swaps.html) | [Links](../links.html)
